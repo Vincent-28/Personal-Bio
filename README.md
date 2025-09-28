@@ -7,10 +7,10 @@ The purpose of this project is to demonstrate my basic understanding of front-en
 - Applying styling with external CSS
 - Separating content (HTML) from presentation (CSS)
 
-# Files
+## Files
 - `index.html` – the main webpage that displays my personal bio, education, experience, and skills.
 - `style.css` – the stylesheet used to add colors, spacing, and layout styling.
 
-# Goal
+## Goal
 This project is not meant to be a full portfolio site.  
 It is a learning exercise to practice and showcase the fundamentals of web development using only HTML and CSS.
