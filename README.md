@@ -1,7 +1,7 @@
 # Personal Bio Page
 
 This repository contains a very simple personal bio webpage built with **HTML** and **CSS**.  
-The purpose of this project is to demonstrate my basic understanding of front-end web development concepts such as:
+The purpose of this project is to demonstrate basic understanding of front-end web development concepts such as:
 
 - Structuring content with HTML
 - Applying styling with external CSS
